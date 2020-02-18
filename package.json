@@ -1,0 +1,23 @@
+{
+  "name": "nojobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "deepzS2",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "beautify": "0.0.8",
+    "big-integer": "^1.6.48",
+    "common-tags": "^1.8.0",
+    "dateformat": "^3.0.3",
+    "discord.js": "^11.5.1",
+    "discord.js-commando": "^0.10.0",
+    "dotenv": "^8.2.0",
+    "steamapi": "^2.0.7",
+  }
+}
